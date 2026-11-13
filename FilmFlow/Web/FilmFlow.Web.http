@@ -1,0 +1,6 @@
+@FilmFlow.Web_HostAddress = http://localhost:5187
+
+GET {{FilmFlow.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
